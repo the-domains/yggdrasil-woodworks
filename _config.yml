@@ -12,5 +12,9 @@ color:
     - '#002F2F'
 layout_spectrum: 0.46890671947039664
 name: Yggdrasil Woodworks
+navigation:
+  - name: Link to Facebook
+    url: 'https://www.facebook.com/Yggdrasil-Woodworks-704197353020426/'
+    type: external
 title: Wooden Wizardry
 description: Where the elements of growth become new life from death

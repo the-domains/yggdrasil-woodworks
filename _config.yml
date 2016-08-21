@@ -1,4 +1,3 @@
-layout_spectrum: 0.46890671947039664
 typography_spectrum: 0.574852431891486
 color:
   brandStrength: 0.5728284113574773
@@ -11,4 +10,6 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+layout_spectrum: 0.46890671947039664
 name: Yggdrasil Woodworks
+title: Wooden Wizardry

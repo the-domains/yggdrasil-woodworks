@@ -1,3 +1,4 @@
+layout_spectrum: 0.46890671947039664
 typography_spectrum: 0.574852431891486
 color:
   brandStrength: 0.5728284113574773
@@ -5,16 +6,9 @@ color:
   saturation: 0.14527349988929927
   rhythmicContrast: 0.10718516283668578
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-layout_spectrum: 0.46890671947039664
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Yggdrasil Woodworks
-navigation:
-  - name: Link to Facebook
-    url: 'https://www.facebook.com/Yggdrasil-Woodworks-704197353020426/'
-    type: external
-title: Wooden Wizardry
-description: Where the elements of growth are given new life from death
